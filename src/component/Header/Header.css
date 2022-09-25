@@ -1,0 +1,25 @@
+
+.top-header{
+     background-color: #1c2b35;
+}
+.header{
+     
+     margin: 0 50px;
+     display: flex;
+     justify-content: space-between;
+     padding: 15px;
+     align-items: center;
+     
+}
+
+.header a{
+     color: white;
+     text-decoration: none;
+     margin-left: 20px;
+     
+}
+
+.header a:hover{
+     color: orange;
+     border-bottom: 2px solid orange;
+}
