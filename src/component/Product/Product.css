@@ -1,0 +1,35 @@
+.product{
+     width: 300px;
+     /* height: 500px; */
+     margin: 0 auto;
+     
+     /* border: 2px solid lightgrey; */
+     border-radius: 10px;
+     box-shadow: 5px 5px 10px rgba(173, 171, 171, 0.623);
+     position: relative;
+     
+}
+.product img{
+     width: 100%;
+     border-radius: 10px 10px 0 0;
+     
+       
+}
+.description{
+     padding: 10px;
+}
+.description h5,p{
+     line-height: 10px;
+}
+.product button{
+     width: 100%;
+     border: none;
+     padding: 15px;
+     position: absolute;
+     bottom: 0px;
+     background-color: rgba(248, 188, 76, 0.589);
+     border-radius: 0 0 10px 10px;
+}
+.product button:hover{
+     background-color: orange;
+}
