@@ -33,3 +33,6 @@
 .product button:hover{
      background-color: orange;
 }
+.addToCart{
+     margin-right: 5px;
+}
