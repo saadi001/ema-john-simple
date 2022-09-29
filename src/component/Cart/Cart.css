@@ -1,0 +1,7 @@
+.cart{
+     position: sticky;
+     top: 0;
+     border: 2px solid rgb(247, 109, 166);
+     padding: 10px;
+     border-radius: 10px;
+}
